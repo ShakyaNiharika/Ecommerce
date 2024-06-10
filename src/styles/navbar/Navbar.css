@@ -1,0 +1,28 @@
+.navbar-main{
+    display: flex;
+    background-color: #4CAF50; 
+    /* justify-content: space-between; */
+    height: 70px;
+    color: white;
+}
+.input-field{
+    width: 48rem;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 20px;
+    height: 8px;
+    margin-left: 90px;
+}
+.logo{
+    width: 180px;
+    height: 45px;
+    padding-left: 20px;
+}
+.rightCorner{
+    display: flex;
+    gap: 30px;
+    margin-left: 140px;
+    padding-top: 8px;
+    font-size: 18px;
+    width: 50px;
+}

@@ -1,0 +1,25 @@
+{
+  "card": [
+    {
+      "id": "1",
+      "title": "We provide only Quality Goods",
+      "tag": "Dailt fresha and Healthy",
+      "image": "https://greengrub-theme.myshopify.com/cdn/shop/files/L06-banner-02.webp?v=1702546151&width=1920"
+    },
+    {
+      "id": "2",
+      "title": "We provide only Quality Goods",
+      "tag": "Dailt fresha and Healthy",    
+      "image": "https://greengrub-theme.myshopify.com/cdn/shop/files/L06-banner-01.webp?v=1702546152&width=1920"
+    },
+    {
+      "id": 3,
+      "title": "We provide only Goods",
+      "tag": "Dailt fresha ",
+      "image": "https://greengrub-theme.myshopify.com/cdn/shop/files/L06-banner-02.webp?v=1702546151&width=1920"
+    }
+  ],
+  "product":[
+   
+  ]
+}

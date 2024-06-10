@@ -1,0 +1,89 @@
+.hero-main{
+    display: flex;
+}
+.hero-main p{
+    color: black;
+}
+.hero-main h1{
+    color: black;
+}
+.Items{
+   position: absolute;
+   padding-top: 180px;
+   padding-left: 60px;
+   font-family: "Gill Sans Extrabold", sans-serif;
+
+}
+.Items p{
+    color: rgba(255, 255, 0, 0.76);
+    font-size: 20px;
+}
+.Items h1{
+    width: 400px;
+    font-size: 42px;
+    color: aliceblue;
+    padding-top: 20px;
+}
+.Items h2{
+    padding-top: 20px;
+    color:rgba(255, 255, 0, 0.76);
+}
+.fruit-image{
+    border-radius:20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    height: 510px;
+    width: 2000px;
+}
+.semi-fruit-image{
+    margin-top: 30px;
+}
+.sideimage1{
+    border-radius: 20px;
+    height: 240px;
+    width: 500px;
+    margin-left: 20px;
+}
+
+.sideimage2{
+    border-radius: 20px;
+    height: 240px;
+    width: 500px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.side1 {
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 40px;
+    
+}
+.side1 p{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+}
+.side1 h1{
+    font-size: 22px;
+    width: 180px;
+    color: aliceblue;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    margin-top: 18px;
+}
+.side2{
+    position: absolute;
+    margin-top: -190px;
+    margin-left: 40px;
+}
+.side2 p{
+    font-family: "Gill Sans Extrabold", sans-serif;
+    font-size: 15px;
+    color: aliceblue;
+}
+.side2 h1{
+    font-size: 22px;
+    width: 180px;
+    color: aliceblue;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    margin-top: 18px;
+}

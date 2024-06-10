@@ -1,0 +1,29 @@
+.main-category h2{
+    margin-top: 90px;
+    margin-left: 20px;
+    font-family: "Gill Sans Extrabold", sans-serif;
+    color: gray;
+}
+.category_cart{
+    display: flex;
+    justify-content: space-around;
+    gap:1rem;
+   
+   
+}
+.category_image{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.category{
+    background-color: rgba(128, 128, 128, 0.163);
+    padding: 40px;
+    border-radius: 10px;
+}
+.category p{
+   text-align: center;
+   font-size: 24px;
+   font-family: "Gill Sans Extrabold", sans-serif;
+   padding-bottom: 16px;
+}
