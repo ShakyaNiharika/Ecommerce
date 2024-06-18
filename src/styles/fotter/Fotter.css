@@ -1,0 +1,26 @@
+.main-fotter{
+    margin-top: 80px;
+    background-color: rgba(0, 128, 0, 0.784);
+    height: 70px;
+    padding-top: 36px;
+}
+.head_Sec{
+    display: flex;
+    justify-content: center ;
+    gap: 20px;
+   
+}
+.head_Sec h2{
+    color: aliceblue;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    padding-top: 10px;
+
+}
+.emailField{
+    width: 480px;
+    height: 40px;
+    padding-top: 4px;
+    padding-left: 8px;
+    border-radius: 15px;
+    border: none;
+}

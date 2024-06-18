@@ -6,7 +6,16 @@ const Deal = () => {
   return (
     <div className="deal-main">
       {DealCategory.map((items) => {
-        return <h1 key={items?.id}>{items?.title}</h1>;
+        return (
+          <div className="sub-deal-main" key={items?.id}>
+            <div class="daal-left-part">
+              <h2>{items?.title}</h2>
+            </div>
+            <div class="daal-right-part">
+              <h2>{items?.offer}</h2>
+            </div>
+          </div>
+        );
       })}
     </div>
   );

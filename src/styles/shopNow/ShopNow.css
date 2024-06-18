@@ -1,0 +1,68 @@
+.main-ShopNow{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+}
+.cabage{
+    border-radius: 20px;
+    width: 500px;
+}
+.soda{
+    border-radius: 20px;
+    width: 500px;
+}
+.tomato{
+    border-radius: 20px;
+    width: 500px;
+}
+.left h1{
+    position: absolute;
+    margin-top: -200px;
+    padding-left: 280px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+}
+.left h2{
+    position: absolute;
+    margin-top: -150px;
+    padding-left: 280px;
+    width: 200px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+.middle h2{
+    position: absolute;
+    margin-top: -200px;
+    padding-left: 280px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+}
+.middle h1{
+    position: absolute;
+    margin-top: -150px;
+    padding-left: 280px;
+    width: 200px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+   
+}
+.right h2{
+    position: absolute;
+    margin-top: -200px;
+    padding-left: 280px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+
+}
+.right h1{
+    position: absolute;
+    margin-top: -150px;
+    padding-left: 280px;
+    width: 200px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+   
+}

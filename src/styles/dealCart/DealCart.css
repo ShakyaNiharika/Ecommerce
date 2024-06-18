@@ -1,0 +1,40 @@
+.dealcart{
+    display: flex;
+    justify-content: space-between;
+    border:3px solid rgba(0, 128, 0, 0.908);
+    border-radius: 5px;
+   
+}
+.main-dealCart{
+    display:flex ;
+    gap: 85px;
+    margin-left: 30px;
+}
+.left-image{
+    height: 240px;
+    width: 240px;
+}
+.right-part h1{
+    font-size: 20px;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+.right-part{
+    width: 200px;
+    padding-top: 40px;
+}
+.right-part hr{
+    width: 70px;
+    height: 6px;
+    background-color: rgba(0, 128, 0, 0.908);
+    margin-top: 8px;
+}
+.right-part p{
+    padding-top: 10px;
+    margin-top: 8px;
+}
+.add-to-cart{
+    background-color: rgba(128, 128, 128, 0.225);
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 175px;
+}
