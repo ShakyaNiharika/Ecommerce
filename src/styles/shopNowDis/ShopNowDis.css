@@ -1,0 +1,31 @@
+.mainShopNow-dis{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 80px;
+}
+.outlet h1{
+    position: absolute;
+    margin-top: -230px;
+    padding-left: 40px;
+    font-size: 22px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+}
+.outlet h2{
+    position: absolute;
+    margin-top: -180px;
+    padding-left: 40px;
+
+    width: 190px;
+    font-family:  "Gill Sans Extrabold", sans-serif;
+    color: aliceblue;
+
+
+}
+.fruitsImages{
+    border-radius: 10px;
+    width: 740px;
+    height: 270px;
+}

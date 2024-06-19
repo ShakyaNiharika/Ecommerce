@@ -9,6 +9,8 @@ import Deal from "../../components/deal/Deal";
 import DealCart from "../../components/dealCart/DealCart";
 import ShopNow from "../../components/shopNow/ShopNow";
 import Fotter from "../../components/fotter/Fotter";
+import Description from "../../components/description/Description";
+import ShopNowDis from "../../components/shopNow(second)/ShopNowDis";
 const Home = () => {
   return (
     <div>
@@ -18,6 +20,8 @@ const Home = () => {
       <Deal />
       <DealCart />
       <ShopNow />
+      <Description />
+      <ShopNowDis />
       <Fotter />
     </div>
   );
