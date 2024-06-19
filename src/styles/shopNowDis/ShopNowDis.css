@@ -1,4 +1,4 @@
-.mainShopNow-dis{
+.mainShopNowDis{
     display: flex;
     justify-content: space-around;
     margin-left: 20px;
@@ -28,4 +28,14 @@
     border-radius: 10px;
     width: 740px;
     height: 270px;
+}
+.shopButton {
+    position: absolute;
+    padding: 10px 20px;
+    color: black; 
+    width: 145px;
+    background-color:white;
+    margin-top: -100px;
+    margin-left: 40px;
+   
 }
